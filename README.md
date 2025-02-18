@@ -49,5 +49,3 @@ npm run dev
 4️⃣ Backend decodes the JWT without verification
 5️⃣ Decoded data is displayed beautifully in the frontend
 
-
-![Alt Text](C:\Users\pgole\Documents\GitHub\JWT-Decoder\Screenshot 2025-02-19 024331.png)
