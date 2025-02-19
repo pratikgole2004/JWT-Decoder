@@ -48,6 +48,9 @@ node index.js
 
 ### 🌐 2️⃣ Frontend Setup
 
+<<<<<<< HEAD
+>>>>>>> f9ef33b920375bd863b400d8117265065b44c6c2
+=======
 >>>>>>> f9ef33b920375bd863b400d8117265065b44c6c2
 # Navigate to the frontend folder
 cd frontend  
