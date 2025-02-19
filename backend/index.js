@@ -7,7 +7,6 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// Decode JWT Without Verification
 app.post("/decode", (req, res) => {
   const { token } = req.body;
   if (!token) return res.status(400).json({ error: "No token provided" });
@@ -20,5 +19,4 @@ app.post("/decode", (req, res) => {
   }
 });
 
-// Start Server
 app.listen(5000, () => console.log("✅ Server running on port 5000"));
